@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: AOP
+
+
+server:
+  port: 8086
+
+
+
